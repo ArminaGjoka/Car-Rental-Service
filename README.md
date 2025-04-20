@@ -15,5 +15,6 @@ Integration with a database for storing rental records 💾
 Technologies Used 🖥️
 
 Delphi
+
 Database management (MYSQL)
 
