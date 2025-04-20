@@ -5,8 +5,11 @@ This project is a simple car rental application built with Delphi. It allows use
 Features 🌟
 
 Car search and selection 🔍
+
 Booking system 📅
+
 Car details display 🚘
+
 Integration with a database for storing rental records 💾
 
 Technologies Used 🖥️
